@@ -1,5 +1,9 @@
-# 5.02
-## TODOs
+# Group 11 Blog
+## Shortcuts 
+* Markdown cheatsheet: https://guides.github.com/features/mastering-markdown/
+
+## 5.02
+### TODOs
 * Finish poster
 * Digitalize STEP card
 * Decide on a topic 
@@ -10,13 +14,12 @@
 * Send STEP card
 * Poster
 
-
-## Meeting notes:
+### Meeting notes:
 * Ava will contact group 10
 
-## Poster
+### Future Shock Poster
 ![Image of future shock poster](A4_V2.png)
 
-## STEP card
+### STEP card
 ![Image of STEP card](STEP.jpg)
 
