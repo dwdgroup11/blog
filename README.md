@@ -1,6 +1,6 @@
 # Group 11 Blog
 ## Shortcuts 
-* [Markdown cheatsheet](https://guides.github.com/features/mastering-markdown/
+* [Markdown cheatsheet](https://guides.github.com/features/mastering-markdown/)
 
 ## 5.02
 ### TODOs
