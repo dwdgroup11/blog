@@ -1,4 +1,5 @@
-# TODOs
+# 5.02
+## TODOs
 * Finish poster
 * Digitalize STEP card
 * Decide on a topic 
@@ -10,7 +11,7 @@
 * Poster
 
 
-# Meeting notes:
+## Meeting notes:
 * Ava will contact group 10
 
 
