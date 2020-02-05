@@ -14,4 +14,9 @@
 ## Meeting notes:
 * Ava will contact group 10
 
+## Poster
+![Image of future shock poster](A4_V2.png)
+
+## STEP card
+
 
