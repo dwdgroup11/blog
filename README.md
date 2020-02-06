@@ -1,4 +1,5 @@
 # Group 11 Blog
+## Blog live on [https://dwdgroup11.github.io/blog/] (https://dwdgroup11.github.io/blog/)
 ## Shortcuts 
 * [Markdown cheatsheet](https://guides.github.com/features/mastering-markdown/)
 
