@@ -1,3 +1,4 @@
+---
 # [Week 4] 5.02 
 ### TODOs
 * Finish poster
@@ -12,3 +13,4 @@
 
 ### Meeting notes:
 * Ava will contact group 10
+---
