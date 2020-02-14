@@ -1,5 +1,7 @@
 # [Week 4] 05.02 
+
 ### TODOs
+
 * Finish poster
 * Digitalize STEP card
 * Decide on a topic 
@@ -10,25 +12,30 @@
 * Send STEP card
 * Poster
 
-### Meeting notes:
+### Meeting Notes
+
 * Ava will contact group 10
 
 
 # [Week 3] 29.01
+
 ### TODOs
+
 * Data walk
 * Brainstorm 100 ideas for the project 
 * Draw a triangulation that maps out the spaces 
 * Do related research
 
-### Meeting notes:
+### Meeting Notes
+
 * Each group members came up with at least 30 ideas and shared with each other 
 * Everyone picked other's ideas that interest them
 * List the most mentioned ideas as common interests
 * Divergently think and discussed common interest topics 
 * Draw the initial triangle
 
-**The most mentioned ideas:**
+#### The Most Mentioned Ideas
+
 1. Memory path
 2. Female issues 
 3. How the environment shapes people 
@@ -39,5 +46,6 @@
 8. Social improvement 
 9. Interactive design
 
-**The triangulation**
+#### The Triangulation
+
 ![Triangulation](./posts-images/triangle.jpg)
