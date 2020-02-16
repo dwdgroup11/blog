@@ -93,6 +93,8 @@
 * Draw a triangulation that maps out the spaces 
 * Do related research
 
+![100 idea](./posts-images/100 idea.jpg)
+
 ### Meeting Notes
 
 * Each group members came up with at least 30 ideas and shared with each other 
