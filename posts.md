@@ -1,3 +1,29 @@
+# [Week 5] 16.02
+
+## Plan of tasks
+- Write blog posts
+- Draw sketches 
+- Record 360 videos @ everyone 
+- Map video to VR box in Unity + other Unity stuff @Ula 
+- Develop an (Android) app to show the videos
+ - User authentication
+ - Send / receive video
+ - Preview video
+- Create a prototype for a VR headset from the future
+- 3D print glasses 
+- Buy a 360 camera 
+- Attach camera to VR headset
+- Interactive part
+- Environment mock
+ - Wind
+ - (Light)?
+ - Temperature
+ - Location
+ - Time 
+- Show 
+ - Fan to mock the wind
+ - Mobile heater
+
 # [Week 5] 12.02 
 
 ### TODOs
