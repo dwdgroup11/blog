@@ -19,7 +19,7 @@
 Personality:<br>
 She’s now a master student studying Fashion Design at Edinburgh College of Art, she likes fashion industry, swimming and staying at home, now she is living in a student studio out of the campus.
 She’s an outgoing and independent person, this is not her first time leaving home and live in other cities. She loves sharing her life on social media and has a bit social media addiction.<br>
-***Scenario (sharing on socila media, her family)***
+####Scenario (sharing on socila media, her family)
 She would like to share her room tour to her family
 She went to princess street shopping and buying daily goods.
 She showed a nice and popular cafe close to her dorm.
@@ -32,7 +32,7 @@ She showed a nice and popular cafe close to her dorm.
 
 Personality:<br>
 He is a management in a business company, he likes travelling and workouts a lot. He’s a easy-going and talkative person. He enjoy extreme outdoor sports and he always buys the latest iPhone.<br>
-***Scenario(sharing to his girlfriend and friends)***
+####Scenario(sharing to his girlfriend and friends)
 He filmed Waverly Station when he arrived in Edinburgh.
 He filmed something related to wine or pub or lounge.
 Any hill or mountain top.
@@ -44,7 +44,7 @@ Any hill or mountain top.
 
 Personality:<br>
 She’s a housewife and has two children. She likes join local crafting events and is good at painting and cooking. She’s a shy person and she has a dog.<br>
-***Scenario(sharing to her parents and her sisters)***
+####Scenario(sharing to her parents and her sisters)
 She filmed while she was cooking in her kitchen.
 She filmed her garden with lots of plants.
 She filmed while she walking her dog in the Meadows.
