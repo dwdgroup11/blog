@@ -9,6 +9,9 @@
 - Four videos has been filmed and uploaded to Youtube
 - Generated 3 different personas, and 3 scenarios for each persona
 
+![Export from Vuze](./posts-images/Export from Vuze.png)
+![Upload YouTube](./posts-images/Upload YouTube.png)
+
 ## Personas and Scenarios 
 ***1. Kim***
 - 22 years old 
