@@ -15,6 +15,7 @@
 - Master Student in Fasion Design
 - Female
 - Korean
+
 Personality:
 She’s now a master student studying Fashion Design at Edinburgh College of Art, she likes fashion industry, swimming and staying at home, now she is living in a student studio out of the campus.
 She’s an outgoing and independent person, this is not her first time leaving home and live in other cities. She loves sharing her life on social media and has a bit social media addiction.
@@ -28,6 +29,7 @@ She showed a nice and popular cafe close to her dorm.
 - Visitor
 - Male
 - American
+
 Personality:
 He is a management in a business company, he likes travelling and workouts a lot. He’s a easy-going and talkative person. He enjoy extreme outdoor sports and he always buys the latest iPhone.
 ***Scenario(sharing to his girlfriend and friends)***
@@ -39,6 +41,7 @@ Any hill or mountain top.
 - 40 years old
 - Local Resident (Edinburgh) born in Glasglow
 - Female
+
 Personality:
 She’s a housewife and has two children. She likes join local crafting events and is good at painting and cooking. She’s a shy person and she has a dog.
 ***Scenario(sharing to her parents and her sisters)***
