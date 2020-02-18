@@ -10,7 +10,7 @@
 - Generated 3 different personas, and 3 scenarios for each persona
 
 ## Personas and Scenarios 
-1. Kim
+***1. Kim***
 - 22 years old 
 - Master Student in Fasion Design
 - Female
@@ -24,7 +24,7 @@ She would like to share her room tour to her family
 She went to princess street shopping and buying daily goods.
 She showed a nice and popular cafe close to her dorm.
 
-2. Peter 
+***2. Peter***
 - 30 years old
 - Visitor
 - Male
@@ -37,7 +37,7 @@ He filmed Waverly Station when he arrived in Edinburgh.
 He filmed something related to wine or pub or lounge.
 Any hill or mountain top.
 
-3. Jane
+***3. Jane***
 - 40 years old
 - Local Resident (Edinburgh) born in Glasglow
 - Female
