@@ -1,3 +1,14 @@
+# [Week 6] 18.02
+
+## TODOs
+- Film 360 degree videos 
+- Upload videos to Youtube
+- Generate personas and scenarios
+
+## Meeting Notes
+- Four videos has been filmed and uploaded to Youtube
+- Generated 3 different personas, and 3 scenarios for each persona
+
 # [Week 5] 16.02
 
 ## Plan of tasks
