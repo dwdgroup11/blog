@@ -1,3 +1,15 @@
+# [Week 7] 03.03
+
+## TODOs
+- Prepare for the Demo
+- Seperate work tasks
+- Refines the artefact design after peer review
+
+## Meeting Notes
+- A new design has been confirmed after considering peers review
+- Seperated tasks to group members 
+- Planed for next step: review UI design, make slides for the Demo show
+
 # [Week 6] 18.02
 
 ## TODOs
