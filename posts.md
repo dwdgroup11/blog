@@ -10,6 +10,10 @@
 - Seperated tasks to group members 
 - Planed for next step: review UI design, make slides for the Demo show
 
+## Research 
+* Maslow's Hierarchy of Needs
+![Maslow's](./posts-images/Screenshot 2020-03-10 at 3.50.50 pm.png)
+
 # [Week 6] 18.02
 
 ## TODOs
