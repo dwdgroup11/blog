@@ -4,7 +4,23 @@
 - Refine slides
 - Do more research about VR 
 
-## Slides link
+### Storyboard
+![Storyboard](./posts-images/Storyboard.png)
+
+### Kim's Scenario
+![Kim's Scenario](./posts-images/Kim's Scenario.png)
+
+### Artefact
+#### Inspiration
+![Inspiration](./posts-images/Inspiration.png)
+#### Record memories:mobile, wearable 360° camera*
+![360 drgree camera](./posts-images/360 drgree camera.png)
+#### Preview memories:VR glasses
+![VR glasses](./posts-images/VR glasses.png)
+
+
+
+### Slides link
 [Demo Slides](https://docs.google.com/presentation/d/1LnFnmBx0IVssXUSkvFbAaTQ4ztesagvLyG7DXKf8QbA/edit?usp=sharing)
 
 # [Week 8] 14.03
