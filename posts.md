@@ -18,7 +18,16 @@
 - A new video has been filmed
 - Ula was responsible for editing video
 
-## Video link
+### UI Interface
+![Interface 1](./posts-images/Interface 1.png)
+
+![Interface 2](./posts-images/Interface 2.png)
+
+### Peirce's Triadic Mode
+![Peirce's Triadic Mode](./posts-images/Peirce's Triadic Model.png)
+
+
+### Video Link
 [Kim's Story](https://drive.google.com/file/d/1IQssPpscF2sAulf-p7ptMboklYErWLmh/view?usp=sharing)
 
 # [Week 7] 03.03
