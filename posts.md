@@ -34,8 +34,28 @@
 - Planed for next step: review UI design, make slides for the Demo show
 
 ## Research 
-* Maslow's Hierarchy of Needs
+### Maslow's Hierarchy of Needs
 ![Maslow's](./posts-images/Screenshot 2020-03-10 at 3.50.50 pm.png)
+* According to this concept, people don’t feel the second need until the demands of the first have been satisfied, nor the third until the second has been satisfied, and so on.
+* The need of using different methods to communicate with others belongs to the third level need. People try to overcome feelings of loneliness and alienation via sharing pictures, videos, and texts, etc. Multiple social medias and technologies were created to satisfy this need, including VR.
+
+### Features of VR
+* Provide a virtual world that independently exist from the real world. 
+* Via VR headsets and headphones to occupy user’s vision and sounds filed, fully immersing users in a virtual world. 
+* By moving head or body, user will be given a simultaneous sensory feedback, the feeling that they are moving in the virtual world. 
+* User can interact with virtual elements in the simulated environment with controllers. 
+
+### Why is Facebook, Snapchat became so pupular
+* A study shows, FB uses is mainly driven by two basic social needs: (1) need to belong and (2) need for self-presentation. The need to belong refers to the intrinsic drive to affiliate with others and get social acceptance, and the need for self-presentation to the continuous process of impression management.  
+* Snapchat interactions are perceived as more enjoyable. Only trusted ties are allowed to access people’s spontaneous experience sharing in Snapchat. 
+
+### Format of sharing 
+* Pictures
+* Videos
+* Voices
+* Texts
+* Immersive experience
+
 
 # [Week 6] 18.02
 
