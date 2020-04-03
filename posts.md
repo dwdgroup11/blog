@@ -10,7 +10,7 @@
 - Ula was responsible for editing video
 
 ## Video link
-https://drive.google.com/file/d/1IQssPpscF2sAulf-p7ptMboklYErWLmh/view?usp=sharing
+[Kim's Story](https://drive.google.com/file/d/1IQssPpscF2sAulf-p7ptMboklYErWLmh/view?usp=sharing)
 
 # [Week 7] 03.03
 
