@@ -1,3 +1,17 @@
+# [Week 8] 14.03
+
+## TODOs
+- Shoot Kim's scenario video
+- Edit video
+- Edit demo session slides
+
+## Meeting Notes
+- A new video has been filmed
+- Ula was responsible for editing video
+
+## Video link
+https://drive.google.com/file/d/1IQssPpscF2sAulf-p7ptMboklYErWLmh/view?usp=sharing
+
 # [Week 7] 03.03
 
 ## TODOs
