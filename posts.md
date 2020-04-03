@@ -1,3 +1,12 @@
+# [Week 9] 19.03
+
+## TODOs
+- Refine slides
+- Do more research about VR 
+
+## Slides link
+[Demo Slides](https://docs.google.com/presentation/d/1LnFnmBx0IVssXUSkvFbAaTQ4ztesagvLyG7DXKf8QbA/edit?usp=sharing)
+
 # [Week 8] 14.03
 
 ## TODOs
