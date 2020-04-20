@@ -1,3 +1,44 @@
+# [Week 11] 03.04
+
+## TODOs
+- Meet with tutor
+
+## Meeting Notes
+We discussed about demo slides, Effi gave sugguestions about how to modify and refine the slide. We also talked about how to the content of video, and how to prepare for final report. 
+
+### Video
+-	Tell a story. Explain why someone would use it (e.g. from our persona’s point of view), why would there would be a problem. How does the interaction work? What problem does it solve?
+-	Explain the VR research background – how would VR work in our context? Why?
+-	Have a look at the storytelling resources Effi send and come up with something easy to understand
+-	We need to improve the story in the video
+
+### Slides
+-	The slides need to be understandable (!!!) since we will not be presenting. 
+-	Effi will take look at the slides and tell us
+-	Explain the triangle better
+-	Change “More to explain” to something else -> “Why we do this?”
+-	More on psychology research
+-	Slide 6 -> it’s not clear if it’s VR in general or our own artefact; Relate to our project why people would use VR 
+-	Slide 7 -> not very useful; consider removing it
+-	Change font of body text and make it bigger; titles are ok
+-	Use one of the characters and build a story around it
+-	Personas are too descriptive: be more speculative based on our research. Why? What is her motivation to use our artefact; Make stuff up, make up scenarios and explain WHY 
+-	Why our object is so amazing? What happens after it? Does it help her build a better connection with her family? 
+-	Mention the Covid-19 situation – our app would help with isolation
+-	Drawings are very nice – video telling the story of Kim for example
+-	Make our argument stronger: alternative usages: to be used in therapy for example. For research purposes across distributed institutions (e.g. University of Edinburgh and University of Munich) 
+-	More references why the object amazing
+-	Justification: why is it important? Because of the research, because of personal interest of the group
+
+### Artefact
+-	References regarding the design of the artefact
+
+### Report
+-	How to share a remote experience
+-	Triangle: Communication, Psychology
+-	Talk about the stage of VR, talk about the context
+-	How is VR used in society? For good? For bad?
+
 # [Week 9] 19.03
 
 ## TODOs
