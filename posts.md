@@ -1,3 +1,50 @@
+# [Week 12] 13.04
+## Main points
+- We met with the tutor again to discuss the concept, slides and video, as well as the change in requirements.
+- We prepared a draft for the final report
+- We came up with a plan for the new video
+- Planned new storytelling components of our presentation
+
+## Notes
+- presentation doesn’t need to be narrated 
+- Overview of concept in video 
+- More talk about psychology of VR 
+  - VR goes beyond messaging, because it involves the senses, it engages the brain in a different matter; could be used for therapy 
+
+### Slides 
+
+- Stages: 
+
+1. Research 
+  - Inspiration – other VR projects that have inspired us 
+2. Development 
+3. Refinement 
+   - Moved the camera after feedback from other groups  
+   - How the object we have now materializes the argument at the beginning? 
+
+### Video 
+
+We need to extend our current video with:
+
+   - More explanations and text between the VR and normal view 
+   - Text is hard to read – bigger font size 
+   - How can we explain our main argument? What are the main benefits? 
+     - Why 360 videos? 
+     - Feel less alone? 
+     - Talk about Maslow’s pyramid? It supports one of the people’s main needs. Talk about the psychology of communication 
+       - Give an example of the current situation – this is one of the very few options for communication 
+       - Can be used in the future for similar situations 
+   - Showing like on the degree show 
+   - Who are we? 
+     - Our backgrounds 
+     - We are interested in VR because of … 
+   - How can the argument be augmented via a video, a comic, bubbles like a dialog 
+   - What makes it so special? Tell a story 
+   - Problems with the prototype:  We are thinking about the near future. There are limitations but they can be overcome. 
+     - It’s speculative and it has some limitations 
+     - The cameras are expensive right now 
+     - The future: they can be widely available 
+
 # [Week 11] 03.04
 
 ## TODOs
