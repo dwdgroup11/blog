@@ -1,3 +1,26 @@
+# [Week 14] 27.04
+## Main points
+- We met with our tutor again to discuss final details about the requirements, the slides and the video.
+- We got a lot of useful feedback on our concept so far, but we need to do argument our project a lot better, e.g. "Why is VR contributing in a positive way?", "What are the psychological foundations and implications of the project?", "How else can it be useful?", "Why is it better/different than existing social media?"
+- We met again to discuss the video and the slides
+  -  We came up with a rough scenario for the video:
+  -  Explain comic and storybook  
+  -  Show artefact from all sides   
+  -  Show prototype in action (talking as Kim)   
+  -  Existing video + more explanations 
+
+## General TODOs 
+- Record short video of artefact
+- Finish prototype of the UX
+- Refine final presentation slides
+- Find anti-social media articles and take screenshots (to add them to a dramatic page in the video, like "Social media's been so popular in the last years, but it's actually isolating people" 
+
+
+# [Week 13] 20.04
+- During this week, we split tasks and start writing the report. 
+- We decide that we need to finalize our research and crystalize the concept, before we put any more work into the video. Hence, the report has higher priority for now.
+- Each one of us will do independant research, which will be incorporated into the report. We will review our research & findings at the end of the week.
+
 # [Week 12] 13.04
 ## Main points
 - We met with the tutor again to discuss the concept, slides and video, as well as the change in requirements.
