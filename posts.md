@@ -3,11 +3,11 @@
 - We met with our tutor again to discuss final details about the requirements, the slides and the video.
 - We got a lot of useful feedback on our concept so far, but we need to do argument our project a lot better, e.g. "Why is VR contributing in a positive way?", "What are the psychological foundations and implications of the project?", "How else can it be useful?", "Why is it better/different than existing social media?"
 - We met again to discuss the video and the slides
-  -  We came up with a rough scenario for the video:
-  -  Explain comic and storybook  
-  -  Show artefact from all sides   
-  -  Show prototype in action (talking as Kim)   
-  -  Existing video + more explanations 
+- We came up with a rough scenario for the video:
+  - Explain comic and storybook  
+  - Show artefact from all sides   
+  - Show prototype in action (talking as Kim)   
+  - Existing video + more explanations 
 
 ## General TODOs 
 - Record short video of artefact
