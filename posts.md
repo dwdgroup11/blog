@@ -8,6 +8,7 @@
   - Show artefact from all sides   
   - Show prototype in action (talking as Kim)   
   - Existing video + more explanations 
+- For the slides, we decided to focus heavily on the design thinking process stages (discover, define, ideate, design) we went through and our experience and results in each one of them
 
 ## General TODOs 
 - Record short video of artefact
