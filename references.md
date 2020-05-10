@@ -1,5 +1,5 @@
 # Relevant case references
-## Report references
+## Background and previous works
 
 Maslow, A. H. (1943). A theory of human motivation. Psychological review, 50(4), 370.C. Neustaedter et al. (eds.), Connecting Families, 127 DOI 10.1007/978-1-4471-4192-1_7, © Springer-Verlag London 2013
 
