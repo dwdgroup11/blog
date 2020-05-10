@@ -1,4 +1,46 @@
 # Relevant case references
+## Report references
+
+Maslow, A. H. (1943). A theory of human motivation. Psychological review, 50(4), 370.C. Neustaedter et al. (eds.), Connecting Families, 127 DOI 10.1007/978-1-4471-4192-1_7, © Springer-Verlag London 2013
+
+Maples-Keller, J. L., Bunnell, B. E., Kim, S. J., & Rothbaum, B. O. (2017). The use of virtual reality technology in the treatment of anxiety and other psychiatric disorders. Harvard review of psychiatry, 25(3), 103.
+
+Reger, M., Koenen-Woods, P., Zetocha, K., et al. (2016). Randomized controlled trial of prolonged exposure using imaginal exposure vs. virtual reality exposure in active duty soldiers with deployment- related posttraumatic stress disorder (PTSD). J Consult Clin Psychol. 
+
+Yoon, H., Newton, F., Haile, N., et al. (2013). Effects of D-cycloserine on cue-induced craving and cigarette smoking among concurrent cocaine- and nicotine-dependent volunteers. Addict Behave. 38:1518–1526.
+
+Whiting, A., & Williams, D. (2013). Why people use social media: a uses and gratifications approach. Qualitative Market Research: An International Journal.
+
+Nadkarni, A., & Hofmann, S. G. (2012). Why do people use Facebook? Personality and individual differences, 52(3), 243-249.
+Brown, T., & Wyatt, J. (2010). Design thinking for social innovation. Development Outreach, 12(1), 29-43.
+
+Rupp, M. A., Kozachuk, J., Michaelis, J. R., Odette, K. L., Smither, J. A., & McConnell, D. S. (2016, September). The effects of immersiveness and future VR expectations on subjec-tive-experiences during an educational 360 video. In Proceedings of the human factors and ergonomics society annual meeting (Vol. 60, No. 1, pp. 2108-2112). Sage CA: Los Angeles, CA: SAGE Publications.
+
+Edison Reseach, Triton Digital. (2019). The Infinite Dial 2019. Edison 2019 infinite
+
+Carl, E., Stein, A. T., Levihn-Coon, A., Pogue, J. R., Rothbaum, B., Emmelkamp, P., Asmundson, G. J. G., Carlbring, P., & Powers, M. B. (2019). Virtual reality exposure therapy for anxiety and related disorders: A meta-analysis of randomized controlled trials. Journal of Anxiety Disorders, 61, 27–36.
+
+Cruz-Neira, C., Sandin, D. J., DeFanti, T. A., Kenyon, R. V, & Hart, J. C. (1992). The CAVE: audio visual experience automatic virtual environment. Communications of the ACM, 35(6), 64–73.
+
+Heilig, M. L. (1962). Sensorama simulator. Google Patents.
+
+Hoffman, H. G., Richards, T. L., Coda, B., Bills, A. R., Blough, D., Richards, A. L., & Sharar, S. R. (2004). Modulation of thermal pain-related brain activity with virtual reality: evidence from fMRI. Neuroreport, 15(8), 1245–1248.
+
+Li, L., Yu, F., Shi, D., Shi, J., Tian, Z., Yang, J., Wang, X., & Jiang, Q. (2017). Application of virtual reality technology in clinical medicine. American Journal of Translational Research, 9(9), 3867.
+
+Martín-Gutiérrez, J., Mora, C. E., Añorbe-Díaz, B., & González-Marrero, A. (2017). Virtual technologies trends in education. EURASIA Journal of Mathematics Science and Technology Education, 13(2), 469–486.
+
+Minderer, M., Harvey, C. D., Donato, F., & Moser, E. I. (2016). Neuroscience: virtual reality explored. Nature, 533(7603), 324–325.
+
+Oculus Quest: All-in-One VR. (n.d.). Retrieved May 6, 2020, from https://www.oculus.com/quest/
+
+Oculus Rift S: PC-powered VR Gaming. (n.d.). Retrieved May 6, 2020, from https://www.oculus.com/rift-s/
+
+Patterson, D. R., Jensen, M. P., Wiechman, S. A., & Sharar, S. R. (2010). Virtual reality hypnosis for pain associated with recovery from physical trauma. Intl. Journal of Clinical and Experimental Hypnosis, 58(3), 288–300.
+
+Sherman, W. R., & Craig, A. B. (2002). Understanding virtual reality: Interface, application, and design. Elsevier.
+
+
 
 ## Design related to depression
 
