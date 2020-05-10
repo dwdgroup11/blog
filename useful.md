@@ -1,4 +1,4 @@
-# Useful links
+# Useful links, inspirations, cheatsheets
 ## Inspirations
 #### Facebook Spaces: "Facebook Doubles Down on Social VR with Spaces"
 > We’re firm believers that great VR experiences are made more powerful, memorable, and fun when they happen with other people. Now, your Facebook friends can join you—virtually—in Rift with Facebook Spaces! This new VR app takes some of the best features of Facebook and brings them into your VR space. Spend time with friends and family like you're really there, step inside 360 videos, draw and play with Touch, and more. 
